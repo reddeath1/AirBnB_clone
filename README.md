@@ -131,5 +131,8 @@ EOF  help  quit
 $
 All tests should also pass in non-interactive mode: $ echo "python3 -m unittest discover tests" | bash
 
+AUTHORS
+FRANK GALOS <https://github.com/reddeath1/>
+Alabi Abdulmateen Bukola <https://github.com/AbdulmateenAl>
 
 
